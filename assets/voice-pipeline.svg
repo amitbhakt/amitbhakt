@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150" role="img" aria-label="Real-Time Voice AI Pipeline Architecture">
+<defs>
+  <clipPath id="card-clip"><rect width="860" height="150" rx="10"/></clipPath>
+  <linearGradient id="line-grad" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+    <stop offset="50%" stop-color="#818cf8" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#34d399" stop-opacity="0.8"/>
+  </linearGradient>
+  <radialGradient id="pulse-glow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<style>
+  .stage-tag { font: 700 11px ui-monospace, SFMono-Regular, Menlo, monospace; fill: #38bdf8; letter-spacing: 1.5px; }
+  .stage-sub { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #f0f6fc; }
+  .wire { stroke: url(#line-grad); stroke-width: 2; fill: none; }
+  .meta { font: 600 10px ui-monospace, SFMono-Regular, Menlo, monospace; fill: #8b949e; letter-spacing: 1px; }
+</style>
+<g clip-path="url(#card-clip)">
+  <rect width="860" height="150" fill="#0d1117" stroke="#30363d" stroke-width="1.5" rx="10"/>
+  
+  <text class="meta" x="30" y="28">REAL-TIME VOICE PIPELINE ARCHITECTURE</text>
+  <text class="meta" x="830" y="28" text-anchor="end">SUB-SECOND LATENCY &lt;450ms</text>
+  <line x1="30" x2="830" y1="36" y2="36" stroke="#21262d" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- Pipeline Wire -->
+  <line class="wire" x1="110" x2="740" y1="75" y2="75"/>
+
+  <!-- Traveling Pulse -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="630 0" dur="3.5s" repeatCount="indefinite"/>
+    <circle cx="110" cy="75" r="14" fill="url(#pulse-glow)"/>
+    <circle cx="110" cy="75" r="3.5" fill="#ffffff"/>
+  </g>
+
+  <!-- Nodes -->
+  
+        <g>
+          <circle cx="110" cy="75" r="5" fill="#38bdf8"/>
+          <circle cx="110" cy="75" r="11" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity="0.5">
+            <animate attributeName="r" values="7;16;7" dur="3.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.7;0;0.7" dur="3.5s" repeatCount="indefinite"/>
+          </circle>
+          <text class="stage-tag" x="110" y="55" text-anchor="middle">INGRESS</text>
+          <text class="stage-sub" x="110" y="101" text-anchor="middle">WhatsApp WebRTC (SRTP)</text>
+        </g>
+        
+        <g>
+          <circle cx="320" cy="75" r="5" fill="#38bdf8"/>
+          <circle cx="320" cy="75" r="11" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity="0.5">
+            <animate attributeName="r" values="7;16;7" dur="3.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.7;0;0.7" dur="3.5s" repeatCount="indefinite"/>
+          </circle>
+          <text class="stage-tag" x="320" y="55" text-anchor="middle">DETECTION</text>
+          <text class="stage-sub" x="320" y="101" text-anchor="middle">VAD &amp; Turn-Taking</text>
+        </g>
+        
+        <g>
+          <circle cx="530" cy="75" r="5" fill="#38bdf8"/>
+          <circle cx="530" cy="75" r="11" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity="0.5">
+            <animate attributeName="r" values="7;16;7" dur="3.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.7;0;0.7" dur="3.5s" repeatCount="indefinite"/>
+          </circle>
+          <text class="stage-tag" x="530" y="55" text-anchor="middle">PIPELINE</text>
+          <text class="stage-sub" x="530" y="101" text-anchor="middle">Pipecat / LiveKit</text>
+        </g>
+        
+        <g>
+          <circle cx="740" cy="75" r="5" fill="#38bdf8"/>
+          <circle cx="740" cy="75" r="11" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity="0.5">
+            <animate attributeName="r" values="7;16;7" dur="3.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.7;0;0.7" dur="3.5s" repeatCount="indefinite"/>
+          </circle>
+          <text class="stage-tag" x="740" y="55" text-anchor="middle">SYNTHESIS</text>
+          <text class="stage-sub" x="740" y="101" text-anchor="middle">Low-Latency TTS</text>
+        </g>
+        
+</g>
+<rect x="0.5" y="0.5" width="859" height="149" rx="10" fill="none" stroke="#30363d"/>
+</svg>
