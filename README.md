@@ -29,6 +29,9 @@ Creator of **[WAVoice](https://github.com/amitbhakt/wavoice)**
 | Project | Contribution | Status | Date |
 |:---|:---|:---:|:---:|
 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | [ci: handle version script dependencies and align Linux CI order](https://github.com/TEN-framework/ten-framework/pull/2360) | 🟢 Open | Oct 2026 |
+| [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | [feat(tts): support Sarvam AI Bulbul v4 Flash model and client-side voice selection](https://github.com/dograh-hq/dograh/pull/909) | 🟣 Merged | Oct 2026 |
+| [dograh-hq/pipecat](https://github.com/dograh-hq/pipecat) | [feat(sarvam): add bulbul:v4-flash TTS model support](https://github.com/dograh-hq/pipecat/pull/76) | 🟣 Merged | Oct 2026 |
+| [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | [chore(tts): remove deprecated Sarvam bulbul:v2 model and voices](https://github.com/dograh-hq/dograh/pull/907) | 🟣 Merged | Oct 2026 |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [fix(daily,rtvi): prevent infinite error loop on transport disconnect](https://github.com/pipecat-ai/pipecat/pull/6168) | Closed | Oct 2026 |
 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | [docs(whatsapp): add setup screenshots and Graph API calling settings curl](https://github.com/dograh-hq/dograh/pull/892) | 🟣 Merged | Oct 2026 |
 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | [feat(telephony): add WhatsApp inbound calling integration](https://github.com/dograh-hq/dograh/pull/732) | 🟣 Merged | Oct 2026 |

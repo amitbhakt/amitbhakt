@@ -4,6 +4,8 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 
 ### [dograh-hq/dograh](https://github.com/dograh-hq/dograh)
 
+- **[feat(tts): support Sarvam AI Bulbul v4 Flash model and client-side voice selection](https://github.com/dograh-hq/dograh/pull/909)** (#909) — _🟣 Merged, 2026-10-19_
+- **[chore(tts): remove deprecated Sarvam bulbul:v2 model and voices](https://github.com/dograh-hq/dograh/pull/907)** (#907) — _🟣 Merged, 2026-10-19_
 - **[docs(whatsapp): add setup screenshots and Graph API calling settings curl](https://github.com/dograh-hq/dograh/pull/892)** (#892) — _🟣 Merged, 2026-10-14_
 - **[feat(telephony): add WhatsApp inbound calling integration](https://github.com/dograh-hq/dograh/pull/732)** (#732) — _🟣 Merged, 2026-10-13_
 - **[fix(sarvam): route LLM to v1 endpoint and support configurable base_url](https://github.com/dograh-hq/dograh/pull/839)** (#839) — _🟣 Merged, 2026-10-01_
@@ -11,6 +13,10 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 ### [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
 
 - **[ci: handle version script dependencies and align Linux CI order](https://github.com/TEN-framework/ten-framework/pull/2360)** (#2360) — _🟢 Open, 2026-10-18_
+
+### [dograh-hq/pipecat](https://github.com/dograh-hq/pipecat)
+
+- **[feat(sarvam): add bulbul:v4-flash TTS model support](https://github.com/dograh-hq/pipecat/pull/76)** (#76) — _🟣 Merged, 2026-10-19_
 
 ### [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 
