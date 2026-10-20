@@ -10,6 +10,19 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 - **[feat(telephony): add WhatsApp inbound calling integration](https://github.com/dograh-hq/dograh/pull/732)** (#732) — _🟣 Merged, 2026-10-13_
 - **[fix(sarvam): route LLM to v1 endpoint and support configurable base_url](https://github.com/dograh-hq/dograh/pull/839)** (#839) — _🟣 Merged, 2026-10-01_
 
+### [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
+
+- **[Normalize ellipses to split sentences and insert pauses](https://github.com/OHF-Voice/piper1-gpl/pull/336)** (#336) — _🟢 Open, 2026-10-20_
+- **[Expose sentence_silence in Python API and add synthesize_stream_raw](https://github.com/OHF-Voice/piper1-gpl/pull/335)** (#335) — _🟢 Open, 2026-10-20_
+
+### [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
+
+- **[fix(xtts): handle empty or None evaluation samples gracefully](https://github.com/idiap/coqui-ai-TTS/pull/599)** (#599) — _🟢 Open, 2026-10-20_
+
+### [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer)
+
+- **[fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29)** (#29) — _🟢 Open, 2026-10-20_
+
 ### [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
 
 - **[ci: handle version script dependencies and align Linux CI order](https://github.com/TEN-framework/ten-framework/pull/2360)** (#2360) — _🟢 Open, 2026-10-18_

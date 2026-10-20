@@ -28,6 +28,10 @@ Creator of **[WAVoice](https://github.com/amitbhakt/wavoice)**
 <!-- prs starts -->
 | Project | Contribution | Status | Date |
 |:---|:---|:---:|:---:|
+| [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [fix(xtts): handle empty or None evaluation samples gracefully](https://github.com/idiap/coqui-ai-TTS/pull/599) | 🟢 Open | Oct 2026 |
+| [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer) | [fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29) | 🟢 Open | Oct 2026 |
+| [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) | [Normalize ellipses to split sentences and insert pauses](https://github.com/OHF-Voice/piper1-gpl/pull/336) | 🟢 Open | Oct 2026 |
+| [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) | [Expose sentence_silence in Python API and add synthesize_stream_raw](https://github.com/OHF-Voice/piper1-gpl/pull/335) | 🟢 Open | Oct 2026 |
 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | [ci: handle version script dependencies and align Linux CI order](https://github.com/TEN-framework/ten-framework/pull/2360) | 🟢 Open | Oct 2026 |
 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | [feat(tts): support Sarvam AI Bulbul v4 Flash model and client-side voice selection](https://github.com/dograh-hq/dograh/pull/909) | 🟣 Merged | Oct 2026 |
 | [dograh-hq/pipecat](https://github.com/dograh-hq/pipecat) | [feat(sarvam): add bulbul:v4-flash TTS model support](https://github.com/dograh-hq/pipecat/pull/76) | 🟣 Merged | Oct 2026 |
