@@ -28,6 +28,7 @@ Creator of **[WAVoice](https://github.com/amitbhakt/wavoice)**
 <!-- prs starts -->
 | Project | Contribution | Status | Date |
 |:---|:---|:---:|:---:|
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [fix(transports): fade in-flight playout audio on interruption and prevent shutdown hangs](https://github.com/pipecat-ai/pipecat/pull/6260) | 🟢 Open | Oct 2026 |
 | [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [fix(xtts): handle empty or None evaluation samples gracefully](https://github.com/idiap/coqui-ai-TTS/pull/599) | 🟢 Open | Oct 2026 |
 | [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer) | [fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29) | 🟢 Open | Oct 2026 |
 | [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) | [Normalize ellipses to split sentences and insert pauses](https://github.com/OHF-Voice/piper1-gpl/pull/336) | 🟢 Open | Oct 2026 |
