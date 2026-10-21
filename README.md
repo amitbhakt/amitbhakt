@@ -28,6 +28,7 @@ Creator of **[WAVoice](https://github.com/amitbhakt/wavoice)**
 <!-- prs starts -->
 | Project | Contribution | Status | Date |
 |:---|:---|:---:|:---:|
+| [idiap/sdialog](https://github.com/idiap/sdialog) | [feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135) | 🟢 Open | Oct 2026 |
 | [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer) | [fix(trainer): validate eval data upfront and construct loaders before training](https://github.com/idiap/coqui-ai-Trainer/pull/31) | 🟢 Open | Oct 2026 |
 | [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer) | [fix(trainer): decouple checkpoint artifact logging from log_model_step and log specific .pth file](https://github.com/idiap/coqui-ai-Trainer/pull/30) | 🟢 Open | Oct 2026 |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [fix(transports): fade in-flight playout audio on interruption and prevent shutdown hangs](https://github.com/pipecat-ai/pipecat/pull/6260) | 🟢 Open | Oct 2026 |

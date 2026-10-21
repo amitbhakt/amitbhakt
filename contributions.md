@@ -26,6 +26,10 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 - **[Normalize ellipses to split sentences and insert pauses](https://github.com/OHF-Voice/piper1-gpl/pull/336)** (#336) — _🟢 Open, 2026-10-20_
 - **[Expose sentence_silence in Python API and add synthesize_stream_raw](https://github.com/OHF-Voice/piper1-gpl/pull/335)** (#335) — _🟢 Open, 2026-10-20_
 
+### [idiap/sdialog](https://github.com/idiap/sdialog)
+
+- **[feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135)** (#135) — _🟢 Open, 2026-10-21_
+
 ### [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
 
 - **[fix(xtts): handle empty or None evaluation samples and log filtering reasons](https://github.com/idiap/coqui-ai-TTS/pull/599)** (#599) — _🟢 Open, 2026-10-20_
