@@ -13,7 +13,7 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 ### [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer)
 
 - **[fix(trainer): decouple checkpoint artifact logging from log_model_step and log specific .pth file](https://github.com/idiap/coqui-ai-Trainer/pull/30)** (#30) — _🟢 Open, 2026-10-21_
-- **[fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29)** (#29) — _🟢 Open, 2026-10-20_
+- **[fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29)** (#29) — _🟣 Merged, 2026-10-21_
 
 ### [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 
