@@ -12,6 +12,7 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 
 ### [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer)
 
+- **[fix(trainer): validate eval data upfront and construct loaders before training](https://github.com/idiap/coqui-ai-Trainer/pull/31)** (#31) — _🟢 Open, 2026-10-21_
 - **[fix(trainer): decouple checkpoint artifact logging from log_model_step and log specific .pth file](https://github.com/idiap/coqui-ai-Trainer/pull/30)** (#30) — _🟢 Open, 2026-10-21_
 - **[fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29)** (#29) — _🟣 Merged, 2026-10-21_
 
@@ -27,7 +28,7 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 
 ### [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
 
-- **[fix(xtts): handle empty or None evaluation samples gracefully](https://github.com/idiap/coqui-ai-TTS/pull/599)** (#599) — _🟢 Open, 2026-10-20_
+- **[fix(xtts): handle empty or None evaluation samples and log filtering reasons](https://github.com/idiap/coqui-ai-TTS/pull/599)** (#599) — _🟢 Open, 2026-10-20_
 
 ### [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
 
