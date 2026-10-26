@@ -16,6 +16,11 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 - **[fix: upload only the new checkpoint file as logger artifact](https://github.com/idiap/coqui-ai-Trainer/pull/30)** (#30) — _🟣 Merged, 2026-10-22_
 - **[fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29)** (#29) — _🟣 Merged, 2026-10-21_
 
+### [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
+
+- **[fix(xtts): apply conditioning prompt loss masking to all batch samples](https://github.com/idiap/coqui-ai-TTS/pull/602)** (#602) — _🟢 Open, 2026-10-26_
+- **[fix(xtts): handle empty or None evaluation samples and log filtering reasons](https://github.com/idiap/coqui-ai-TTS/pull/599)** (#599) — _🟢 Open, 2026-10-20_
+
 ### [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 
 - **[fix(transports): fade in-flight playout audio on interruption and prevent shutdown hangs](https://github.com/pipecat-ai/pipecat/pull/6260)** (#6260) — _🟢 Open, 2026-10-20_
@@ -29,10 +34,6 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 ### [idiap/sdialog](https://github.com/idiap/sdialog)
 
 - **[feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135)** (#135) — _🟢 Open, 2026-10-21_
-
-### [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
-
-- **[fix(xtts): handle empty or None evaluation samples and log filtering reasons](https://github.com/idiap/coqui-ai-TTS/pull/599)** (#599) — _🟢 Open, 2026-10-20_
 
 ### [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
 

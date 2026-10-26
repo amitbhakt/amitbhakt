@@ -28,6 +28,7 @@ Creator of **[WAVoice](https://github.com/amitbhakt/wavoice)**
 <!-- prs starts -->
 | Project | Contribution | Status | Date |
 |:---|:---|:---:|:---:|
+| [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [fix(xtts): apply conditioning prompt loss masking to all batch samples](https://github.com/idiap/coqui-ai-TTS/pull/602) | 🟢 Open | Oct 2026 |
 | [idiap/sdialog](https://github.com/idiap/sdialog) | [feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135) | 🟢 Open | Oct 2026 |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [fix(transports): fade in-flight playout audio on interruption and prevent shutdown hangs](https://github.com/pipecat-ai/pipecat/pull/6260) | 🟢 Open | Oct 2026 |
 | [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [fix(xtts): handle empty or None evaluation samples and log filtering reasons](https://github.com/idiap/coqui-ai-TTS/pull/599) | 🟢 Open | Oct 2026 |
