@@ -16,6 +16,11 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 - **[fix: upload only the new checkpoint file as logger artifact](https://github.com/idiap/coqui-ai-Trainer/pull/30)** (#30) — _🟣 Merged, 2026-10-22_
 - **[fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29)** (#29) — _🟣 Merged, 2026-10-21_
 
+### [idiap/sdialog](https://github.com/idiap/sdialog)
+
+- **[dialog2flow: encode each unique utterance once (same output, faster)](https://github.com/idiap/sdialog/pull/142)** (#142) — _🟢 Open, 2026-11-20_
+- **[feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135)** (#135) — _🟣 Merged, 2026-10-29_
+
 ### [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
 
 - **[fix(xtts): apply conditioning prompt loss masking to all batch samples](https://github.com/idiap/coqui-ai-TTS/pull/602)** (#602) — _🟢 Open, 2026-10-26_
@@ -34,10 +39,6 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 ### [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
 
 - **[ci: handle version script dependencies and align Linux CI order](https://github.com/TEN-framework/ten-framework/pull/2360)** (#2360) — _🟢 Open, 2026-10-18_
-
-### [idiap/sdialog](https://github.com/idiap/sdialog)
-
-- **[feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135)** (#135) — _🟣 Merged, 2026-10-29_
 
 ### [dograh-hq/pipecat](https://github.com/dograh-hq/pipecat)
 
