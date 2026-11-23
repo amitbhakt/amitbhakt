@@ -2,6 +2,15 @@
 
 A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 
+### [idiap/sdialog](https://github.com/idiap/sdialog)
+
+- **[Keep speakers named system or user in the dialog2flow speaker map](https://github.com/idiap/sdialog/pull/146)** (#146) — _🟢 Open, 2026-11-23_
+- **[Save dialog2flow dendrograms without calling plt.show()](https://github.com/idiap/sdialog/pull/145)** (#145) — _🟢 Open, 2026-11-23_
+- **[Call scipy.linalg.sqrtm without disp in FrechetBERTDistanceEvaluator](https://github.com/idiap/sdialog/pull/144)** (#144) — _🟢 Open, 2026-11-23_
+- **[Add max_clustering_turns to build dialog2flow graphs from a sample of turns](https://github.com/idiap/sdialog/pull/143)** (#143) — _🟢 Open, 2026-11-23_
+- **[dialog2flow: encode each unique utterance once (same output, faster)](https://github.com/idiap/sdialog/pull/142)** (#142) — _🟣 Merged, 2026-11-23_
+- **[feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135)** (#135) — _🟣 Merged, 2026-10-29_
+
 ### [dograh-hq/dograh](https://github.com/dograh-hq/dograh)
 
 - **[feat(tts): support Sarvam AI Bulbul v4 Flash model and client-side voice selection](https://github.com/dograh-hq/dograh/pull/909)** (#909) — _🟣 Merged, 2026-10-19_
@@ -15,11 +24,6 @@ A log of pull requests authored by [@amitbhakt](https://github.com/amitbhakt).
 - **[fix(trainer): validate eval data upfront and construct loaders before training](https://github.com/idiap/coqui-ai-Trainer/pull/31)** (#31) — _🟣 Merged, 2026-10-22_
 - **[fix: upload only the new checkpoint file as logger artifact](https://github.com/idiap/coqui-ai-Trainer/pull/30)** (#30) — _🟣 Merged, 2026-10-22_
 - **[fix(trainer): close file logger handlers before cleanup to prevent WinError 32](https://github.com/idiap/coqui-ai-Trainer/pull/29)** (#29) — _🟣 Merged, 2026-10-21_
-
-### [idiap/sdialog](https://github.com/idiap/sdialog)
-
-- **[dialog2flow: encode each unique utterance once (same output, faster)](https://github.com/idiap/sdialog/pull/142)** (#142) — _🟢 Open, 2026-11-20_
-- **[feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135)** (#135) — _🟣 Merged, 2026-10-29_
 
 ### [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
 

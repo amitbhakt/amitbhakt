@@ -28,13 +28,17 @@ Creator of **[WAVoice](https://github.com/amitbhakt/wavoice)**
 <!-- prs starts -->
 | Project | Contribution | Status | Date |
 |:---|:---|:---:|:---:|
-| [idiap/sdialog](https://github.com/idiap/sdialog) | [dialog2flow: encode each unique utterance once (same output, faster)](https://github.com/idiap/sdialog/pull/142) | 🟢 Open | Nov 2026 |
+| [idiap/sdialog](https://github.com/idiap/sdialog) | [Keep speakers named system or user in the dialog2flow speaker map](https://github.com/idiap/sdialog/pull/146) | 🟢 Open | Nov 2026 |
+| [idiap/sdialog](https://github.com/idiap/sdialog) | [Save dialog2flow dendrograms without calling plt.show()](https://github.com/idiap/sdialog/pull/145) | 🟢 Open | Nov 2026 |
+| [idiap/sdialog](https://github.com/idiap/sdialog) | [Call scipy.linalg.sqrtm without disp in FrechetBERTDistanceEvaluator](https://github.com/idiap/sdialog/pull/144) | 🟢 Open | Nov 2026 |
+| [idiap/sdialog](https://github.com/idiap/sdialog) | [Add max_clustering_turns to build dialog2flow graphs from a sample of turns](https://github.com/idiap/sdialog/pull/143) | 🟢 Open | Nov 2026 |
 | [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [fix(xtts): apply conditioning prompt loss masking to all batch samples](https://github.com/idiap/coqui-ai-TTS/pull/602) | 🟢 Open | Oct 2026 |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [fix(transports): fade in-flight playout audio on interruption and prevent shutdown hangs](https://github.com/pipecat-ai/pipecat/pull/6260) | 🟢 Open | Oct 2026 |
 | [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) | [fix(xtts): handle empty or None evaluation samples and log filtering reasons](https://github.com/idiap/coqui-ai-TTS/pull/599) | 🟢 Open | Oct 2026 |
 | [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) | [Normalize ellipses to split sentences and insert pauses](https://github.com/OHF-Voice/piper1-gpl/pull/336) | 🟢 Open | Oct 2026 |
 | [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) | [Expose sentence_silence in Python API and add synthesize_stream_raw](https://github.com/OHF-Voice/piper1-gpl/pull/335) | 🟢 Open | Oct 2026 |
 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | [ci: handle version script dependencies and align Linux CI order](https://github.com/TEN-framework/ten-framework/pull/2360) | 🟢 Open | Oct 2026 |
+| [idiap/sdialog](https://github.com/idiap/sdialog) | [dialog2flow: encode each unique utterance once (same output, faster)](https://github.com/idiap/sdialog/pull/142) | 🟣 Merged | Nov 2026 |
 | [idiap/sdialog](https://github.com/idiap/sdialog) | [feat: Add native WhatsApp Cloud API serving with SQLite persistence (#133)](https://github.com/idiap/sdialog/pull/135) | 🟣 Merged | Oct 2026 |
 | [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer) | [fix(trainer): validate eval data upfront and construct loaders before training](https://github.com/idiap/coqui-ai-Trainer/pull/31) | 🟣 Merged | Oct 2026 |
 | [idiap/coqui-ai-Trainer](https://github.com/idiap/coqui-ai-Trainer) | [fix: upload only the new checkpoint file as logger artifact](https://github.com/idiap/coqui-ai-Trainer/pull/30) | 🟣 Merged | Oct 2026 |
